@@ -1,9 +1,6 @@
 # Hide the '+ new' gallery button
 
 
-**last tested/working:** Sept 13, 2021
-
-**author(s):** [@dragonwocky](https://github.com/dragonwocky)
 
 <table border="0">
  <tr>
